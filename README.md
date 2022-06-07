@@ -1,6 +1,6 @@
 # pv
 
- Instal ```npm i```
+ Instal :  ```npm i```
  
  
 ```js
@@ -11,4 +11,4 @@
    ```
    
   
-  Run```node .```
+  Run :  ```node .```
