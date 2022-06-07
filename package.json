@@ -1,0 +1,15 @@
+{
+    "name": "tempvoice",
+    "version": "1.0.0",
+    "description": "Discord bot for handling private voices",
+    "main": "index.js",
+    "scripts": {
+        "start": "node .",
+        "dev": "nodemon ."
+    },
+    "author": "b",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
