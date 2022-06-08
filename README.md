@@ -15,4 +15,4 @@
   
   Run :  ```node .```
 
-run shod xD <img src="https://media.discordapp.net/attachments/983572623625683035/983612697889357914/880521818090377316.webp"  width="50px" height="50px" >
+run shod xD <img src="https://media.discordapp.net/attachments/975980845242396762/983957570207223858/892728280195670026.gif"  width="35px" height="35px" >
