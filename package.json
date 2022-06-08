@@ -7,7 +7,7 @@
         "start": "node .",
         "dev": "nodemon ."
     },
-    "author": "b",
+    "author": "oxfprd",
     "license": "MIT",
     "dependencies": {
         "discord.js": "^11.5.1"
